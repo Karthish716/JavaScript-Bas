@@ -13,7 +13,7 @@ console.log(limit+2n);
 console.log(limit+3n);
 
 
-// String Data Type
+//String Data Type
 
 let intro = "Hii This is code";
 
@@ -26,3 +26,14 @@ console.log(nums);
 let isAldult = true;
 isAldult = String(isAldult);
 console.log(typeof isAldult)
+
+let age =12;
+
+let a=12;
+let b ='s';
+
+let res = a==b;
+console.log(typeof(null));
+if('0'){
+    console.log("hii");
+}
